@@ -135,7 +135,7 @@ export default function Application() {
                   href="mailto:benny.pincha@gmail.com"
                   class="text-blue-500 underline"
                 >
-                  benny.pincha@gmail.com
+                  benny@seren.fyi
                 </a>
                 . Thank you for your cooperation!
               </p>
